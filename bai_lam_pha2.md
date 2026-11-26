@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên: NGUYỄN BÙI GIA BẢO**
 - **Lớp: CNTT1**
-- **Link repository Pha2:**
+- **Link repository Pha2: https://github.com/kuronami-ctrl/CNTT1_PromptingAI_H02_Pha01_Pha02/edit/main/bai_lam_pha2.md**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini): CHATGPT**
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
@@ -162,7 +162,12 @@ Lưu ý: Câu lệnh ban đầu của bạn có cụm từ xin lỗi, nêu đún
 **KET QUA AI**
 
 ```text
-(Dán câu trả lời của AI vào đây (bấm nút Copy dưới câu trả lời) – xoá dòng này)
+| Tiêu chí | Điểm | Minh chứng | Đề xuất sửa |
+|---|---:|---|---|
+| 1. Đúng thông tin (50%) | 1/5 | - Câu: “Trám răng bên em 450k/răng thôi” sai giá. Giá chuẩn là 500.000 đồng/răng.<br>- Câu: “Bong sau 8 tháng thì em làm lại free cho anh nha” sai chính sách bảo hành. Tháng thứ 8 chỉ được giảm 50%. | “Dịch vụ trám răng có giá 500.000 đồng/răng. Nếu miếng trám bong từ tháng thứ 7 đến tháng thứ 12, khách hàng được giảm 50% chi phí làm lại.” |
+| 2. Đầy đủ (30%) | 0,5/3 | - Chưa trình bày đầy đủ chính sách bảo hành.<br>- Chưa hỏi khách ngày hẹn và khung giờ muốn đặt lịch. | “Nếu miếng trám bong trong 6 tháng đầu, nha khoa sẽ làm lại miễn phí. Từ tháng thứ 7 đến tháng thứ 12, khách hàng được giảm 50%. Sau 12 tháng không áp dụng bảo hành. Anh vui lòng cung cấp ngày hẹn và khung giờ phù hợp để bên em hỗ trợ đặt lịch ạ.” |
+| 3. Giọng điệu (20%) | 1/2 | - Các cụm từ “đẹp như răng thật luôn”, “free cho anh nha”, “Cần gì cứ inbox em ạ!” chưa thể hiện sự chuyên nghiệp. | Sử dụng cách diễn đạt lịch sự như: “Dạ, nha khoa rất sẵn lòng hỗ trợ anh. Anh vui lòng cho em biết ngày và khung giờ thuận tiện để bên em hỗ trợ đặt lịch ạ.” |
+| **Tổng điểm** | **2,5/10** | Bài làm sai giá dịch vụ, sai chính sách bảo hành và chưa đáp ứng đầy đủ yêu cầu đặt lịch. | Cần sửa lại thông tin giá, chính sách bảo hành và cách giao tiếp với khách hàng. |
 ```
 
 **Link trò chuyện: https://chatgpt.com/share/6b07e804-ea70-83ec-a367-aed46fff5336**
