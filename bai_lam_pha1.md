@@ -2,8 +2,8 @@
 
 - **Mã đề:** 08
 - **Họ tên: Nguyễn Bùi Gia Bảo**
-- **Lớp:CNTT1**
-- **Link repository Pha1:**
+- **Lớp: CNTT1**
+- **Link repository Pha1: https://github.com/kuronami-ctrl/CNTT1_PromptingAI_H02_Pha01_Pha02/edit/main/bai_lam_pha1.md**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
@@ -43,13 +43,13 @@ Hãy ghi rõ tên mục hoặc điều khoản trong file
 
 ```text
 # C - Context (Bối cảnh)
-Bạn là nhân viên hỗ trợ của Nha Khoa Nụ Cười . Bạn có nhiệm vụ đọc tin nhắn khách hàng, tin nhắn đặt và chuyển thông tin thành JSON.
+Bạn là nhân viên hỗ trợ của Nha Khoa Nụ Cười . Bạn có nhiệm vụ đọc tin nhắn khách hàng, tin nhắn đặt lịch và chuyển thông tin thành JSON.
 # R - Request (Yêu cầu)
 Chuyển 3 tin nhắn TN1, TN2, TN3 thành một mảng JSON gồm đúng 3 đối tượng, giữ nguyên thứ tự tin nhắn.
 
 Mỗi đối tượng phải có đúng 6 trường:
 - ma_dich_vu
-- ngay_
+- ngay_ hen
 - nguoi_lon
 - tre_em
 - khung_gio
@@ -121,7 +121,7 @@ Nhóm nhân viên công ty làm dịch vụ CAOVOI gồm 6 người lớn, 2 tr�
 Hãy tính toán và trình bày lần lượt theo 6 bước:
 1. Tiền người lớn.
 2. Tiền trẻ em.
-3. Tiền dịch .
+3. Tiền dịch vụ.
 4. Giảm giá nhóm.
 5. Phụ thu.
 6. Tổng tiền.
